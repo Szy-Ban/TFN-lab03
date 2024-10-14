@@ -1,0 +1,14 @@
+[
+  {
+    "title": "TestBook",
+    "author": "Szymon Baniewicz",
+    "category": "Fantasy",
+    "description": "krotki opis"
+  },
+  {
+    "title": "Autobiografia",
+    "author": "Admin User",
+    "category": "Scifi",
+    "description": "dlugiiiiiiiii opis"
+  }
+]

@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+section h1 {
+    text-align: left;
+    font-family: "Comic Sans MS", serif;
+}
+
+section {
+    margin: 20px;
+    background-color: azure;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+section p {
+    font-family: Bahnschrift, serif;
+}
+
+.selectDiv {
+    text-align: center;
+}
+
+select {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
